@@ -1,0 +1,1 @@
+﻿Set-ItemProperty -Path 'HKCU:\Control Panel\Desktop' -name SCRNSAVE.EXE C:\Windows\system32\Ribbons.scr
